@@ -3,3 +3,6 @@ Predict the price of the house based on 20 features of the house that are concer
 
 
 ![](https://github.com/abduallheid/House-price-Forecasting/blob/master/app.png)
+ 
+ 
+
